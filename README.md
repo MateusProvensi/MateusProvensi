@@ -14,7 +14,7 @@ Technologies that I'm always learning, because the learning is continuous:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-eac304?style=flat-square&logo=JavaScript&logoColor=black)
 - ![JavaScript](https://img.shields.io/badge/NodeJs-6fa560?style=flat-square&logo=Node&logoColor=black)
 
-## My contacts
+## My contacts and social media
 <a href="https://www.linkedin.com/in/mateus-da-silva-provensi-2704a51a3/">
   <img align="left" alt="My Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a> 
