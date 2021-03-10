@@ -12,7 +12,7 @@ Technologies that I'm always learning, because the learning is continuous:
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-eac304?style=flat-square&logo=JavaScript&logoColor=black)
-- ![JavaScript](https://img.shields.io/badge/NodeJs-6fa560?style=flat-square&logo=Node&logoColor=black)
+- ![NodeJs](https://img.shields.io/badge/NodeJs-6fa560?style=flat-square&logo=Node&logoColor=black)
 
 ## My contacts and social media
 <a href="https://www.linkedin.com/in/mateus-da-silva-provensi-2704a51a3/" target="_blank">
