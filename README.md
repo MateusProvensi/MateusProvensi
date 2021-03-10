@@ -15,12 +15,12 @@ Technologies that I'm always learning, because the learning is continuous:
 - ![JavaScript](https://img.shields.io/badge/NodeJs-6fa560?style=flat-square&logo=Node&logoColor=black)
 
 ## My contacts and social media
-<a href="https://www.linkedin.com/in/mateus-da-silva-provensi-2704a51a3/">
+<a href="https://www.linkedin.com/in/mateus-da-silva-provensi-2704a51a3/" target="_blank">
   <img align="left" alt="My Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a> 
-<a href="https://github.com/MateusProvensi">
+<a href="https://github.com/MateusProvensi" target="_blank">
   <img align="left" alt="My Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a> 
-<a href="https://www.instagram.com/mateus_provensi/">
+<a href="https://www.instagram.com/mateus_provensi/" target="_blank">
   <img align="left" alt="My Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
