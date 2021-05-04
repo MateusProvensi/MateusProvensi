@@ -20,6 +20,7 @@ Technologies that I'm always learning, because the learning is continuous:
 	<img width="10%" style="padding:5px" 
 src="https://img.icons8.com/color/144/000000/css3.png" />
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/typescript.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
