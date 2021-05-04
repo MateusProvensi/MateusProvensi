@@ -1,4 +1,3 @@
-
 # Hey, there!👋 I'm [Mateus Provensi](https://github.com/MateusProvensi)
 
 ## Little things about me
@@ -17,14 +16,28 @@ I've always liked technology, and learning to create something you like is amazi
 Technologies that I'm always learning, because the learning is continuous:
 
 <p align="center">
+	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 	<img width="10%" style="padding:5px" 
-src="https://www.flaticon.com/svg/vstatic/svg/226/226269.svg?token=exp=1615431452~hmac=11cfec9e371547a1b6a69d41ca2b088e" />
-	<img width="10%" style="padding:5px" 
-src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1615431535~hmac=955884cd40bb3343b5e6cc8f68944768" />
+src="https://img.icons8.com/color/144/000000/css3.png" />
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
 </p>
+
+##  My contacts and social media
+
+<a href="https://www.linkedin.com/in/mateus-da-silva-provensi-2704a51a3/" target="_blank">
+<img align="left" alt="My Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/MateusProvensi" target="_blank">
+<img align="left" alt="My Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/mateus_provensi/" target="_blank">
+<img align="left" alt="My Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br>
 
 # #NeverStopLearning
