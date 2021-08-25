@@ -16,7 +16,9 @@ I've always liked technology, and learning to create something you like is amazi
 Technologies that I'm always learning, because the learning is continuous:
 
 <p align="center">
+	<a href="https://google.com">
 	<img width="10%" style="padding:5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+	</a>
 	<img width="10%" style="padding:5px" 
 src="https://img.icons8.com/color/144/000000/css3.png" />
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
