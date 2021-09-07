@@ -19,35 +19,21 @@ I've always liked technology, and learning to create something you like is amazi
 
 Technologies that I'm always learning, because the learning is continuous:
 
-<div style='display:flex; flex-wrap:wrap; justify-content:center;'>
-<a style="background-color:rgba(18,88,252,0.1); border-radius:50px; padding:20px; margin:10px;" href="https://www.w3schools.com/html/"
-target="_blank">
-<figure><img style="height:170px; width:170px;" src="images/tecnologias/html5.png" /></figure>
-</a>
+<div>
+<a href="https://www.w3schools.com/html/"
+target="_blank"><img width="10%" style="padding:5px" src="images/tecnologias/html5.png" /></a>
 
-<a style="background-color:rgba(18,88,252,0.1); border-radius:50px; padding:20px; margin:10px;" href="https://www.w3schools.com/css/" target="_blank">
-<figure><img style="height:170px; width:170px;" src="images/tecnologias/css3.png" /> </figure>
-</a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img width="10%" style="padding:5px" src="images/tecnologias/css3.png" /></a>
 
-<a style="background-color:rgba(18,88,252,0.1); border-radius:50px; padding:20px; margin:10px;" href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank">
-<figure><img style="height:170px; width:170px;" src="images/tecnologias/javascript.png" /></figure>
-</a>
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank"><img width="10%" style="padding:5px" src="images/tecnologias/javascript.png" /></a>
 
-<a style="background-color:rgba(18,88,252,0.1); border-radius:50px; padding:20px; margin:10px;" href="https://www.typescriptlang.org/" target="_blank">
-<figure><img style="height:170px; width:170px;" src="images/tecnologias/typescript.png" /></figure>
-</a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img width="10%" style="padding:5px" src="images/tecnologias/typescript.png" /></a>
 
-<a style="background-color:rgba(18,88,252,0.1); border-radius:50px; padding:20px; margin:10px;" href="https://www.python.org/" target="_blank">
-<figure><img style="height:170px; width:170px;" src="images/tecnologias/python.png" /></figure>
-</a>
+<a href="https://www.python.org/" target="_blank"><img width="10%" style="padding:5px" src="images/tecnologias/python.png" /></a>
 
-<a style="background-color:rgba(18,88,252,0.1); border-radius:50px; padding:20px; margin:10px;" href="https://www.java.com/en/" target="_blank">
-<figure><img style="height:170px; width:170px;" src="images/tecnologias/java.png" /></figure>
-</a>
+<a href="https://www.java.com/en/" target="_blank"><img width="10%" style="padding:5px" src="images/tecnologias/java.png" /></a>
 
-<a style="background-color:rgba(18,88,252,0.1); border-radius:50px; padding:20px; margin:10px;" href="https://nodejs.org/en/" target="_blank">
-<figure><img style="height:170px; width:170px;" src="images/tecnologias/nodejs.png" /></figure>
-</a>
+<a href="https://nodejs.org/en/" target="_blank"><img width="10%" style="padding:5px" src="images/tecnologias/nodejs.png" /></a>
 </div>
 <br>
 
