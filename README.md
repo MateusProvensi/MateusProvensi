@@ -19,21 +19,20 @@ I've always liked technology, and learning to create something you like is amazi
 
 Technologies that I'm always learning, because the learning is continuous:
 
-<div style="display: flex;">
-<a href="https://www.w3schools.com/html/" target="_blank"><img width="100px" style="padding:5px" src="images/tecnologias/html5.png" /></a>
+<div>
+<img width="100px" style="padding:5px" src="images/tecnologias/html5.png" />
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img width="100px" style="padding:5px" src="images/tecnologias/css3.png" /></a>
+<img width="100px" style="padding:5px" src="images/tecnologias/css3.png" />
 
-<a href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank"><img width="100px" style="padding:5px" src="images/tecnologias/javascript.png" /></a>
+<img width="100px" style="padding:5px" src="images/tecnologias/javascript.png" />
 
-<a href="https://www.typescriptlang.org/" target="_blank"><img width="100px" style="padding:5px" src="images/tecnologias/typescript.png" /></a>
+<img width="100px" style="padding:5px" src="images/tecnologias/typescript.png" />
 
-<a href="https://www.python.org/" target="_blank"><img width="100px" style="padding:5px" src="images/tecnologias/python.png" /></a>
+<img width="100px" style="padding:5px" src="images/tecnologias/python.png" />
 
-<a href="https://www.java.com/en/" target="_blank"><img width="100px" style="padding:5px" src="images/tecnologias/java.png" /></a>
+<img width="100px" style="padding:5px" src="images/tecnologias/java.png" />
 
-<a href="https://nodejs.org/en/" target="_blank"><img width="100px" style="padding:5px" src="images/tecnologias/nodejs.png" /></a>
-
+<img width="100px" style="padding:5px" src="images/tecnologias/nodejs.png" />
 </div>
 <br>
 
