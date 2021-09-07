@@ -55,6 +55,4 @@ Technologies that I'm always learning, because the learning is continuous:
 <br>
 <br>
 
-<p style="text-align: center; font-size: 50px">
-#NeverStopLearning
-</p>
+# #NeverStopLearning
