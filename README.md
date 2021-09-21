@@ -1,6 +1,6 @@
 # Hello, World!🖖 I'm [Mateus Provensi](https://github.com/MateusProvensi)
 
-## Little things about me
+## Little things about me 📖
 
 Hi! My name is **Mateus da Silva Provensi**. Welcome to my GitHub! I'm from Brazil, and I'm a beginner developer.👨‍💻
 
@@ -36,7 +36,7 @@ Technologies that I'm always learning, because the learning is continuous:
 </div>
 <br>
 
-## My contacts and social media
+## My contacts and social media 📱
 
 <br>
 <div style="text-align: center;">
@@ -55,4 +55,4 @@ Technologies that I'm always learning, because the learning is continuous:
 <br>
 <br>
 
-# #NeverStopLearning
+# #NeverStopLearning 🤖
