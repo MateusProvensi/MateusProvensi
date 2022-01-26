@@ -12,7 +12,7 @@ I've always liked technology, and learning to create something you like is amazi
   - 🎬 Watch movies;
   - 📚 Read books;
 - 🎵 I Love Music;
-- 👦18 years old;
+- 👦19 years old;
 - 🧠 "That which is done out of love always takes place beyond good and evil".
 
 ## Technologies 🚀
