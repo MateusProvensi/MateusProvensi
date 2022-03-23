@@ -35,7 +35,7 @@ Technologies that I'm always learning, because the learning is continuous:
 <img width="100px" style="padding:5px" src="images/tecnologias/nodejs.png" />
 
 <img width="100px" style="padding:5px" src="images/tecnologias/vuejs.png" />
-  
+
 <img width="100px" style="padding:5px" src="images/tecnologias/springboot.png" />  
 </div>
 <br>
