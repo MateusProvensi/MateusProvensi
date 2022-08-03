@@ -36,6 +36,8 @@ Technologies that I'm always learning, because the learning is continuous:
 
 <img width="100px" style="padding:5px" src="images/tecnologias/vuejs.png" />
 
+<img width="100px" style="padding:5px" src="images/tecnologias/flutter.png" />
+
 <img width="100px" height="60px" style="padding:5px" src="images/tecnologias/springboot.png" />  
 </div>
 <br>
