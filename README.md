@@ -2,7 +2,7 @@
 
 ## Little things about me 📖
 
-Hi! My name is **Mateus da Silva Provensi**. Welcome to my GitHub! I'm from Brazil, and I'm a beginner developer.👨‍💻
+Hi! My name is **Mateus da Silva Provensi**. Welcome to my GitHub! I'm from Brazil, and I'm a junior developer.👨‍💻
 
 I've always liked technology, and learning to create something you like is amazing. That's why I entered the area, to build, always prioritizing knowledge.
 
