@@ -7,7 +7,7 @@ Hi! My name is **Mateus da Silva Provensi**. Welcome to my GitHub! I'm from Braz
 I've always liked technology, and learning to create something you like is amazing. That's why I entered the area, to build, always prioritizing knowledge.
 
 - 📌 From Paraná, Brazil;
-- 💼 Full Stack Web Junior at **[RP Info Sistemas](https://www.rpinfo.com.br/)**
+- 💼 Full Stack Web Pleno at **[RP Info Sistemas](https://www.rpinfo.com.br/)**
 - My Hobbies are:
   - 🎬 Watch movies;
   - 📚 Read books;
