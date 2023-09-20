@@ -11,8 +11,7 @@ I've always liked technology, and learning to create something you like is amazi
 - My Hobbies are:
   - 🎬 Watch movies;
   - 📚 Read books;
-- 🎵 I Love Music;
-- 👦20 years old;
+- 🎵 I Love Code Listening Music;
 - 🧠 "That which is done out of love always takes place beyond good and evil".
 
 ## Technologies 🚀
@@ -27,8 +26,6 @@ Technologies that I'm always learning, because the learning is continuous:
 <img width="100px" style="padding:5px" src="images/tecnologias/javascript.png" />
 
 <img width="100px" style="padding:5px" src="images/tecnologias/typescript.png" />
-
-<img width="100px" style="padding:5px" src="images/tecnologias/python.png" />
 
 <img width="100px" style="padding:5px" src="images/tecnologias/java.png" />
 
