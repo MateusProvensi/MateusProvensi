@@ -60,5 +60,3 @@ Technologies that I'm always learning, because the learning is continuous:
 </div>
 <br>
 <br>
-
-# You make your future 📚
